@@ -1,0 +1,20 @@
+{
+  "name": "example-webpack-tsx",
+  "version": "1.0.0",
+  "description": "webpack reac typescript tsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kflange/example-webpack-tsx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kflange/example-webpack-tsx/issues"
+  },
+  "homepage": "https://github.com/kflange/example-webpack-tsx#readme"
+}
